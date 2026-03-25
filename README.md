@@ -12,7 +12,6 @@ This repository contains Assignment 1 for ATUA, which investigates the spatial p
 
 ## Main files
 - `ATUA_Assignment_1.ipynb`
-- `3149531_Assignment_1.html`
 - `README.md`
 
 ## Summary
