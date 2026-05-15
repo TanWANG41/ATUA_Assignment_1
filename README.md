@@ -1,4 +1,4 @@
-# ATUA Assignment 1: Spatial Analysis of Airbnb Prices
+# Spatial Analysis of Airbnb Prices
 
 This repository contains Assignment 1 for ATUA, which investigates the spatial pattern of Airbnb prices and compares global and local spatial regression models.
 
